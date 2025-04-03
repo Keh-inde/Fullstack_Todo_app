@@ -9,7 +9,7 @@ export const Global = createGlobalStyle`
     };
 
     body {
-        /* max-width: 1200px; */
+        max-width: 1500px;
         margin: 0 auto;
         /* border: 4px dashed green; */
     }
@@ -36,8 +36,4 @@ export const Global = createGlobalStyle`
             margin: 0;
         }
     }
-
-    /* .container {
-    background-color: yellow;
-   } */
 `;
